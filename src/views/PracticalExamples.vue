@@ -1,6 +1,7 @@
 <script setup>
 import Ex1Markdown from '@/components/PracticalExamples/Ex1Markdown.vue';
 import Ex2FetchingData from '@/components/PracticalExamples/Ex2FetchingData.vue';
+import Ex3Grid from '@/components/PracticalExamples/Ex3Grid.vue';
 </script>
 
 <template>
@@ -9,5 +10,8 @@ import Ex2FetchingData from '@/components/PracticalExamples/Ex2FetchingData.vue'
         <Ex1Markdown />
         <hr />
         <Ex2FetchingData />
+        <hr />
+        <Ex3Grid />
+
     </div>
 </template>

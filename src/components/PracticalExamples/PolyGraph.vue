@@ -28,7 +28,7 @@ const points = computed(() => {
 </template>
 
 
-<style>
+<style scoped>
 polygon {
     fill: #42b983;
     opacity: 0.75;

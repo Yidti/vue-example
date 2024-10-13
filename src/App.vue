@@ -19,7 +19,7 @@ import { RouterView } from 'vue-router';
 </template>
 
 
-<style scoped>
+<style>
 .app-container {
   display: flex;
   /* 使用 Flexbox 排版 */

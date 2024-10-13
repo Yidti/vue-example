@@ -66,7 +66,7 @@ import Ex8Todomvc from '@/components/PracticalExamples/Ex8Todomvc.vue';
 }
 
 .todomvc-container {
-    height: 500px;
+    /* height: 500px; */
     /* 或更多，根據需要調整 */
     display: flex;
     flex-direction: column;
